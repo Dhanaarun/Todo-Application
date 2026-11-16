@@ -4,6 +4,7 @@ Date:16.11.2026
 ## AIM
 To create a To-do Application with all features using JavaScript.
 ## ALGORITHM
+```
 STEP 1
 Build the HTML structure (index.html).
 STEP 2
@@ -24,6 +25,9 @@ STEP 9
 Deploy the website.
 STEP 10
 Upload to GitHub Pages for free hosting.
+
+```
+
 
 ## PROGRAM
 HTML
